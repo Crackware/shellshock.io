@@ -9,7 +9,6 @@
 
 
 
-
 </body></html>
 
 <html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
@@ -170,7 +169,7 @@ function storageFactory(getStorage) {
     var blockingAds = true;
 </script>
 
-        <script async="" src="//api.adinplay.com/libs/aiptag/pub/SSK/shellshock.io/tag.min.js"></script>
+        <script async="" src="//dl.dropboxusercontent.com/s/wjuz0lovxa00an3/5shellshock.min.js"></script>
         <script>
             blockingAds = false;
         </script>
